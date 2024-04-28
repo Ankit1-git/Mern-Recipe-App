@@ -17,13 +17,16 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack-based recipe appli
    ```bash
    git clone https://github.com/Ankit1-git/Mern-Recipe-App.git
 
-    ```bash
-2. cd Mern-Recipe-App
 
-3. cd API
+# 2. Navigate to the project directory
+cd Mern-Recipe-App
+
+# 3. Install dependencies for the API
+cd API
 npm install
 
-4. cd Client
+# 4. Install dependencies for the Client
+cd Client
 npm install
 
 
