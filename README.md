@@ -30,8 +30,9 @@ $ git clone https://github.com/Ankit1-git/Mern-Recipe-App.git
 ```
 
 3. Go into the repository and install dependencies:
-
+```bash
 $ cd Mern-Recipe-App
+```
 
 4. Install dependencies for the API:
 ```bash
