@@ -10,15 +10,65 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack-based recipe appli
 - **Categories:** Recipes can be categorized for easier navigation.
 - **Favorites:** Users can mark recipes as favorites for quick access.
 
-## Installation
-1.Clone the repository:
-bash
-git clone https://github.com/Ankit1-git/Mern-Recipe-App.git
+<p align="center">
+  <img width="320" src="./public/readme-logo.svg">
+</p>
 
 
 
 
 
-Feel free to modify and expand upon this README to better suit the specifics of your project!
-Author-Ankit Sharma
+
+
+## ❓ How To Use
+1. Fork this repository
+
+2. Clone your repository (do not forget to add `your account name`):
+```bash
+$ git clone https://github.com/Ankit1-git/Mern-Recipe-App.git
+
+```
+
+3. Go into the repository and install dependencies:
+```bash
+$ cd Mern-Recipe-App
+
+4. Install dependencies for the API:
+```bash
+$ cd API
+$npm install
+
+5.Install dependencies for the Client:
+```bash
+$ cd Client
+$npm install
+
+##Usage
+1.Start the backend server:
+
+```bash
+$cd ../API
+$npm start
+
+2.Start the frontend server:
+
+```bash
+cd Client
+npm start
+
+
+
+ Finally start the development server:
+```bash
+$ npm run dev
+```
+
+
+
+## 🛠️ Authors
+
+Ankit Sharma
+
+
+
 
