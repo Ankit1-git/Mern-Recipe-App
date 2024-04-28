@@ -38,11 +38,13 @@ $ cd Mern-Recipe-App
 ```bash
 $ cd API
 $npm install
+```
 
 5.Install dependencies for the Client:
 ```bash
 $ cd Client
 $npm install
+```
 
 ##Usage
 1.Start the backend server:
@@ -50,12 +52,14 @@ $npm install
 ```bash
 $cd ../API
 $npm start
+```
 
 2.Start the frontend server:
 
 ```bash
 cd Client
 npm start
+```
 
 
 
