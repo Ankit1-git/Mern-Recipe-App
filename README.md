@@ -20,11 +20,9 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack-based recipe appli
     ```bash
 2. cd Mern-Recipe-App
 
- ```bash
 3. cd API
 npm install
 
- ```bash
 4. cd Client
 npm install
 
