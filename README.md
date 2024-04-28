@@ -11,23 +11,12 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack-based recipe appli
 - **Favorites:** Users can mark recipes as favorites for quick access.
 
 ## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Ankit1-git/Mern-Recipe-App.git
+1.Clone the repository:
+bash
+git clone https://github.com/Ankit1-git/Mern-Recipe-App.git
 
 
-# 2. Navigate to the project directory
-cd Mern-Recipe-App
 
-# 3. Install dependencies for the API
-cd API
-npm install
-
-# 4. Install dependencies for the Client
-cd Client
-npm install
 
 
 Feel free to modify and expand upon this README to better suit the specifics of your project!
