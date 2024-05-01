@@ -2,6 +2,8 @@
 
 This is a MERN (MongoDB, Express.js, React.js, Node.js) stack-based recipe application.
 
+Demo Video
+https://www.loom.com/share/99c4361b460345e3a48c57d8bf47897c?sid=9ab72dab-d0f8-470f-b042-780fba0c6740
 ## Features
 
 - **Authentication:** Users can sign up and log in to access the application.
